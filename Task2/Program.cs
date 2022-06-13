@@ -1,15 +1,22 @@
-﻿int a = 7;
-int b = 100;
-int c = 99;
+﻿int a = 81;
+int b = 81;
+int c = 81;
 int max = a;
- 
-if (b > a)
-{ 
-    max = b;
-}
-if (c > b)
+if (max < b || max < c)
 {
-    max = c
+    max = b;
+    max = c;
+    Console.Write($" Максимальное значение - {max}");
+}
+else
+{
+    if (a == b && a == c && b == c)
+    {
+        System.Console.Write($"Числа равны между собой.");
+    }
+    else
+    {
+        Console.Write($" Максимальное значение - {max}");
+    }
 }
 
-Console.WriteLine($"{max} - максимальное из трех");
