@@ -1,0 +1,15 @@
+C:\Users\yupzimakova\Desktop\MyProgramms\myprogramms\method5\bin\Debug\net6.0\method5.exe
+C:\Users\yupzimakova\Desktop\MyProgramms\myprogramms\method5\bin\Debug\net6.0\method5.deps.json
+C:\Users\yupzimakova\Desktop\MyProgramms\myprogramms\method5\bin\Debug\net6.0\method5.runtimeconfig.json
+C:\Users\yupzimakova\Desktop\MyProgramms\myprogramms\method5\bin\Debug\net6.0\method5.dll
+C:\Users\yupzimakova\Desktop\MyProgramms\myprogramms\method5\bin\Debug\net6.0\method5.pdb
+C:\Users\yupzimakova\Desktop\MyProgramms\myprogramms\method5\obj\Debug\net6.0\method5.csproj.AssemblyReference.cache
+C:\Users\yupzimakova\Desktop\MyProgramms\myprogramms\method5\obj\Debug\net6.0\method5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yupzimakova\Desktop\MyProgramms\myprogramms\method5\obj\Debug\net6.0\method5.AssemblyInfoInputs.cache
+C:\Users\yupzimakova\Desktop\MyProgramms\myprogramms\method5\obj\Debug\net6.0\method5.AssemblyInfo.cs
+C:\Users\yupzimakova\Desktop\MyProgramms\myprogramms\method5\obj\Debug\net6.0\method5.csproj.CoreCompileInputs.cache
+C:\Users\yupzimakova\Desktop\MyProgramms\myprogramms\method5\obj\Debug\net6.0\method5.dll
+C:\Users\yupzimakova\Desktop\MyProgramms\myprogramms\method5\obj\Debug\net6.0\refint\method5.dll
+C:\Users\yupzimakova\Desktop\MyProgramms\myprogramms\method5\obj\Debug\net6.0\method5.pdb
+C:\Users\yupzimakova\Desktop\MyProgramms\myprogramms\method5\obj\Debug\net6.0\method5.genruntimeconfig.cache
+C:\Users\yupzimakova\Desktop\MyProgramms\myprogramms\method5\obj\Debug\net6.0\ref\method5.dll
