@@ -1,0 +1,15 @@
+C:\Users\yupzimakova\Desktop\MyProgramms\myprogramms\method6\obj\Debug\net6.0\method6.csproj.AssemblyReference.cache
+C:\Users\yupzimakova\Desktop\MyProgramms\myprogramms\method6\obj\Debug\net6.0\method6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yupzimakova\Desktop\MyProgramms\myprogramms\method6\obj\Debug\net6.0\method6.AssemblyInfoInputs.cache
+C:\Users\yupzimakova\Desktop\MyProgramms\myprogramms\method6\obj\Debug\net6.0\method6.AssemblyInfo.cs
+C:\Users\yupzimakova\Desktop\MyProgramms\myprogramms\method6\obj\Debug\net6.0\method6.csproj.CoreCompileInputs.cache
+C:\Users\yupzimakova\Desktop\MyProgramms\myprogramms\method6\bin\Debug\net6.0\method6.exe
+C:\Users\yupzimakova\Desktop\MyProgramms\myprogramms\method6\bin\Debug\net6.0\method6.deps.json
+C:\Users\yupzimakova\Desktop\MyProgramms\myprogramms\method6\bin\Debug\net6.0\method6.runtimeconfig.json
+C:\Users\yupzimakova\Desktop\MyProgramms\myprogramms\method6\bin\Debug\net6.0\method6.dll
+C:\Users\yupzimakova\Desktop\MyProgramms\myprogramms\method6\bin\Debug\net6.0\method6.pdb
+C:\Users\yupzimakova\Desktop\MyProgramms\myprogramms\method6\obj\Debug\net6.0\method6.dll
+C:\Users\yupzimakova\Desktop\MyProgramms\myprogramms\method6\obj\Debug\net6.0\refint\method6.dll
+C:\Users\yupzimakova\Desktop\MyProgramms\myprogramms\method6\obj\Debug\net6.0\method6.pdb
+C:\Users\yupzimakova\Desktop\MyProgramms\myprogramms\method6\obj\Debug\net6.0\method6.genruntimeconfig.cache
+C:\Users\yupzimakova\Desktop\MyProgramms\myprogramms\method6\obj\Debug\net6.0\ref\method6.dll

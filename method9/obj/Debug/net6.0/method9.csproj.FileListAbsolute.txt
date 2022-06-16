@@ -1,0 +1,15 @@
+C:\Users\yupzimakova\Desktop\MyProgramms\myprogramms\method9\bin\Debug\net6.0\method9.exe
+C:\Users\yupzimakova\Desktop\MyProgramms\myprogramms\method9\bin\Debug\net6.0\method9.deps.json
+C:\Users\yupzimakova\Desktop\MyProgramms\myprogramms\method9\bin\Debug\net6.0\method9.runtimeconfig.json
+C:\Users\yupzimakova\Desktop\MyProgramms\myprogramms\method9\bin\Debug\net6.0\method9.dll
+C:\Users\yupzimakova\Desktop\MyProgramms\myprogramms\method9\bin\Debug\net6.0\method9.pdb
+C:\Users\yupzimakova\Desktop\MyProgramms\myprogramms\method9\obj\Debug\net6.0\method9.csproj.AssemblyReference.cache
+C:\Users\yupzimakova\Desktop\MyProgramms\myprogramms\method9\obj\Debug\net6.0\method9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yupzimakova\Desktop\MyProgramms\myprogramms\method9\obj\Debug\net6.0\method9.AssemblyInfoInputs.cache
+C:\Users\yupzimakova\Desktop\MyProgramms\myprogramms\method9\obj\Debug\net6.0\method9.AssemblyInfo.cs
+C:\Users\yupzimakova\Desktop\MyProgramms\myprogramms\method9\obj\Debug\net6.0\method9.csproj.CoreCompileInputs.cache
+C:\Users\yupzimakova\Desktop\MyProgramms\myprogramms\method9\obj\Debug\net6.0\method9.dll
+C:\Users\yupzimakova\Desktop\MyProgramms\myprogramms\method9\obj\Debug\net6.0\refint\method9.dll
+C:\Users\yupzimakova\Desktop\MyProgramms\myprogramms\method9\obj\Debug\net6.0\method9.pdb
+C:\Users\yupzimakova\Desktop\MyProgramms\myprogramms\method9\obj\Debug\net6.0\method9.genruntimeconfig.cache
+C:\Users\yupzimakova\Desktop\MyProgramms\myprogramms\method9\obj\Debug\net6.0\ref\method9.dll
